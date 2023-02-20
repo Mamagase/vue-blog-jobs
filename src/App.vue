@@ -58,5 +58,9 @@ button {
   padding: 10px;
   border: none;
   border-radius: 4px;
+  cursor: pointer;
+}
+button:hover {
+  background: #ddd;
 }
 </style>
